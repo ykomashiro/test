@@ -1,5 +1,4 @@
 """
-@ykomashiro
 开发网站的自动签到脚本，目前实现的网站有
     - 轻之国度(www.lightnovel.com)
     - 绯月论坛()
